@@ -3,7 +3,7 @@
 | borrower_trustability | Исследование надежности заемщиков | Определить как влияют на факт возврата кредита в срок такие показатели как семейное положение и количество детей |pandas, numpy, pymystem3 |
 | buisness_metrics | Анализ бизнес-показателей | Помочь маркетологам оптимизировать маркетинговые затраты. |pandas, numpy, matplotlib, seaborn, scipy |
 | game_market_analysis | Исследование рынка видеоигр | Выявить закономерности, определяющие успешность игры |pandas, numpy, matplotlib, scipy |
-| gym_churn | 301 | 283 |283 |
+| gym_churn | Прогнозирование оттока | Провести анализ данных и подготовить план действий по удержанию клиентов фитнес - клуба. | pandas, numpy, matplotlib, seaborn, plotly, sklearn |
 | hipo_project_full | 301 | 283 |283 |
 | real_estate_project | Оценка рынка недвижимости Санкт-Петербурга и области | Установить параметры, определяющие рыночную стоимость недвижимости |pandas, matplotlib |
 | restaurants_project | 301 | 283 |283 |
