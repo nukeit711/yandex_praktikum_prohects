@@ -5,7 +5,7 @@
 | game_market_analysis | 301 | 283 |283 |
 | gym_churn | 301 | 283 |283 |
 | hipo_project_full | 301 | 283 |283 |
-| real_estate_project | 301 | 283 |283 |
+| real_estate_project | Оценка рынка недвижимости Санкт-Петербурга и области | Установить параметры, определяющие рыночную стоимость недвижимости |pandas, matplotlib |
 | restaurants_project | 301 | 283 |283 |
 | retail_project | 301 | 283 |283 |
 | telecom_project | 301 | 283 |283 |
