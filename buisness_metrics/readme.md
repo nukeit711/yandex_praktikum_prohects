@@ -30,4 +30,4 @@
      
   3. Итоговые выводы
 
-### стек:  pandas, numpy, matplotlib, seaborn, pymystem3
+### стек:  pandas, numpy, matplotlib, seaborn, scipy
