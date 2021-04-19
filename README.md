@@ -1,7 +1,7 @@
 | Название папки | Название проекта | Цель задания |Стек |
 | :---: | :---: | :---: |:---: |
 | borrower_trustability | Исследование надежности заемщиков | Определить как влияют на факт возврата кредита в срок такие показатели как семейное положение и количество детей |pandas, numpy, pymystem3 |
-| buisness_metrics | Анализ бизнес-показателей | Помочь маркетологам оптимизировать маркетинговые затраты. |pandas, numpy, matplotlib, seaborn, scipy |
+| buisness_metrics(https://github.com/nukeit711/yandex_praktikum_projects/tree/main/borrower_trustability) | Анализ бизнес-показателей | Помочь маркетологам оптимизировать маркетинговые затраты. |pandas, numpy, matplotlib, seaborn, scipy |
 | game_market_analysis | Исследование рынка видеоигр | Выявить закономерности, определяющие успешность игры |pandas, numpy, matplotlib, scipy |
 | gym_churn | Прогнозирование оттока | Провести анализ данных и подготовить план действий по удержанию клиентов фитнес - клуба. | pandas, numpy, matplotlib, seaborn, plotly, sklearn |
 | hipo_project_full | Проверка гипотез и анализ А/В - теста | Имея подготовленные данные от крупного интернет-магазина провести приоритизацию гипотез и проанализировать результаты A/B теста |pandas, numpy, matplotlib, scipy |
